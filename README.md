@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ohm Ramwala</h1>
-
-<img align="centre" alt="Coding" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<h1 align="center">Hello, I'm Ohm Ramwala</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohmramwala&label=Profile%20views&color=0e75b6&style=flat" alt="ohmramwala" /> </p>
 
@@ -8,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **System Security**
+- 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data science**
 
-- 💬 Ask me about **Google Cloud**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **ohmramwala@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Quote of the Day **Life is beautiful when you stop and look around**
 
 [![An image of @ohmramwala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ohmramwala)](https://holopin.io/@ohmramwala)
 
