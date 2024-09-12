@@ -15,10 +15,8 @@
 
 [![An image of @ohmramwala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ohmramwala)](https://holopin.io/@ohmramwala)
 
-<br>
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
